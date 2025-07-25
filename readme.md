@@ -21,7 +21,8 @@ The goal is to assess your ability to:
 
 You are provided with the following folder structure:
 
-- root/
+```
+root/
   ├── node_modules/
   ├── src/
   │ ├── css/
@@ -32,6 +33,7 @@ You are provided with the following folder structure:
   ├── package-lock.json
   ├── package.json
   └── readme.md
+```
 
 You will only need to modify the public/index.html file for this assignment. All necessary configurations for Tailwind CSS are already set up.
 
